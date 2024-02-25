@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Cstm\\PSTU_works\\Inf\\Labs\\Lab_Queens\\Program_Queens\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F0A621A7-910D-4488-BB28-2D7CE62DA706}|Program_Queens\\Program_Queens.vcxproj|C:\\Cstm\\PSTU_works\\Inf\\Labs\\Lab_Queens\\Program_Queens\\Program_Queens\\Program_Queens.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F0A621A7-910D-4488-BB28-2D7CE62DA706}|Program_Queens\\Program_Queens.vcxproj|solutionrelative:Program_Queens\\Program_Queens.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 56,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program_Queens.cpp",
+              "DocumentMoniker": "C:\\Cstm\\PSTU_works\\Inf\\Labs\\Lab_Queens\\Program_Queens\\Program_Queens\\Program_Queens.cpp",
+              "RelativeDocumentMoniker": "Program_Queens\\Program_Queens.cpp",
+              "ToolTip": "C:\\Cstm\\PSTU_works\\Inf\\Labs\\Lab_Queens\\Program_Queens\\Program_Queens\\Program_Queens.cpp",
+              "RelativeToolTip": "Program_Queens\\Program_Queens.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAOsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-02-16T19:07:22.158Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
